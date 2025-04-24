@@ -921,8 +921,9 @@ Sobre essa simplicidade, Martin Fowler destacou:
 
 > Never in the annals of software engineering was so much owed by so many to so few lines of code ([link](https://learning.oreilly.com/library/view/test-driven-development/0321146530/)).
 
-## Bibliografia
+## Referências
 
-- Test Driven Development: By Example.
-- unittest website: https://docs.python.org/3/library/unittest.html
-- unittest code: https://github.com/python/cpython/tree/main/Lib/unittest
+- Kent Benk. Beck, Kent. Test driven development: By example. Addison-Wesley Professional, 2002.
+- Marco Tulio Valente. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, Editora: Independente, 2020.
+- unittest - website: https://docs.python.org/3/library/unittest.html
+- unittest - código: https://github.com/python/cpython/tree/main/Lib/unittest
