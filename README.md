@@ -923,7 +923,7 @@ Sobre essa simplicidade, Martin Fowler destacou:
 
 ## Referências
 
-- Kent Benk. Beck, Kent. Test driven development: By example. Addison-Wesley Professional, 2002.
+- Kent Benk. Test Driven Development: By Example. Addison-Wesley Professional, 2002.
 - Marco Tulio Valente. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade, Editora: Independente, 2020.
 - unittest - website: https://docs.python.org/3/library/unittest.html
 - unittest - código: https://github.com/python/cpython/tree/main/Lib/unittest
